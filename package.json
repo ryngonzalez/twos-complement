@@ -1,0 +1,24 @@
+{
+  "name": "twos-complement",
+  "version": "1.0.0",
+  "description": "Learning project to understand Two's Complement representation of binary numbers.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ryngonzalez/twos-complement.git"
+  },
+  "keywords": [
+    "binary",
+    "utilities",
+    "utils"
+  ],
+  "author": "Ryan Gonzalez",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ryngonzalez/twos-complement/issues"
+  },
+  "homepage": "https://github.com/ryngonzalez/twos-complement"
+}
